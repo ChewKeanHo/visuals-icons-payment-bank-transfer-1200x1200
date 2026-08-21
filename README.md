@@ -12,11 +12,11 @@ project as long as you **DO NOT** alter the graphic file.
 
 If you need customization, please contact us.
 
-[![icon](/share/icons/chewkeanho/payment-bank-transfer-mask-1200x1200.svg)](#)
+[![icon](/share/icons/chewkeanho/payment-bank-transfer-mask_1200x1200.svg)](#)
 
-[![icon](/share/icons/chewkeanho/payment-bank-transfer-monochrome-1200x1200.svg)](#)
+[![icon](/share/icons/chewkeanho/payment-bank-transfer-monochrome_1200x1200.svg)](#)
 
-[![icon](/share/icons/chewkeanho/payment-bank-transfer-monochrome-inverted-1200x1200.svg)](#)
+[![icon](/share/icons/chewkeanho/payment-bank-transfer-monochrome-inverted_1200x1200.svg)](#)
 
 
 
