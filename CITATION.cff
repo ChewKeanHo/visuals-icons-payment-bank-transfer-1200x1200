@@ -1,0 +1,48 @@
+cff-version: "1.2.0"
+type: "dataset"
+date-released: "2026-08-21"
+title: "Payment Card Icon"
+version: "1.0.0"
+license: "cc-by-nd-4.0"
+repository: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
+repository-code: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
+repository-artifact: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
+url: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
+contact:
+  - affiliation: "(Holloway) Chew, Kean Ho"
+    given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "visuals@chewkeanho.com"
+    website: "https://visuals.chewkeanho.com"
+abstract: |-
+  Need a simple icon visual indicator for bank-to-bank payment transfer? This
+  project is the right place.
+
+  Designed properly using goverment structure and transfer symbols as
+  references, this icon is specifically created for payment interfacing usage
+  (e.g. invoice or digital terminal). Under an open license, one can freely use
+  it for one's project as long as you **DO NOT** alter the graphic file.
+
+  If you need customization, please contact us.
+message: |-
+  Please cite and reference this repository accordingly.
+authors:
+  - given-names: "Kean Ho"
+    family-names: "Chew"
+    email: "visuals@chewkeanho.com"
+    orcid: "https://orcid.org/0000-0003-4202-4863"
+identifiers:
+  - type: other
+    value: "chewkeanho-visuals-icons-payment-transfer-1200x1200"
+    description: "Product SKU Identifier"
+  - type: other
+    value: "C48FC914-D579-4EE5-B146-F066473C8DE1"
+    description: "Product UUID Identifier"
+keywords:
+  - "bank transfer"
+  - "payments"
+  - "icons"
+  - "design"
+  - "graphics design"
+  - "visuals"
+  - "creative visuals"
