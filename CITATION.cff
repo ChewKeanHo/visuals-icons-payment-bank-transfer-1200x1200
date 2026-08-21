@@ -1,13 +1,13 @@
 cff-version: "1.2.0"
 type: "dataset"
 date-released: "2026-08-21"
-title: "Payment Card Icon"
+title: "Payment Card 1200x1200 Icon"
 version: "1.0.0"
 license: "cc-by-nd-4.0"
-repository: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
-repository-code: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
-repository-artifact: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
-url: "https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200"
+repository: "https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200"
+repository-code: "https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200"
+repository-artifact: "https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200"
+url: "https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200"
 contact:
   - affiliation: "(Holloway) Chew, Kean Ho"
     given-names: "Kean Ho"
@@ -33,7 +33,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-4202-4863"
 identifiers:
   - type: other
-    value: "chewkeanho-visuals-icons-payment-transfer-1200x1200"
+    value: "chewkeanho-visuals-icons-payment-bank-transfer-1200x1200"
     description: "Product SKU Identifier"
   - type: other
     value: "C48FC914-D579-4EE5-B146-F066473C8DE1"

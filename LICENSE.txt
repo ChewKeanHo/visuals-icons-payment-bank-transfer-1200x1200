@@ -1,4 +1,4 @@
-Copyright 2026 The (Holloway) Chew, Kean Ho's Payment Card Icon Project Team (https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200)
+Copyright 2026 The (Holloway) Chew, Kean Ho's Payment Card 1200x1200 Icon Project Team (https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200)
 
 The above unified aliases have one or more actual legal entities listed outside
 of this document: (1) 'CREATORS.txt' or 'AUTHORS.txt'; and

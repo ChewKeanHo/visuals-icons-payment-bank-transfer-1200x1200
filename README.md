@@ -1,4 +1,4 @@
-# Payment Bank Transfer Icon | (Holloway) Chew, Kean Ho's Creative Visuals
+# Payment Bank Transfer 1200x1200 Icon | (Holloway) Chew, Kean Ho's Creative Visuals
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
@@ -121,12 +121,12 @@ Title: Payment Bank Transfer Icon
 Creators: (Holloway) Chew, Kean Ho
 Packaged-By: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
-SKU: chewkeanho-visuals-icons-payment-transfer-1200x1200
+SKU: chewkeanho-visuals-icons-payment-bank-transfer-1200x1200
 UUID: C48FC914-D579-4EE5-B146-F066473C8DE1
 License: Creative Commons Attribution-NoDerivatives 4.0 International License (https://creativecommons.org/licenses/by-nd/4.0)
 Repository Made On: 2026-08-21
 Repository Made From: Malaysia, South East Asia
-Procure: https://github.com/ChewKeanHo/visuals-icons-payment-transfer-1200x1200
+Procure: https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200
 ```
 
 
